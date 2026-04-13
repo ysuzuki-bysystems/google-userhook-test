@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "./main.ts"
+  },
+  "dependencies": {
+    "@types/node": "^25.6.0"
+  }
+}
